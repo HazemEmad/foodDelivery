@@ -1,0 +1,170 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "url": "https://egy-air.com/wp-content/uploads/2019/02/pro38.jpg",
+      "rate": "4.0",
+      "name": "Macdonaldos",
+      "type": "Fast food",
+      "delivery_min": "10",
+      "items": [
+        {
+          "name": "Big Mac",
+          "price": "55",
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Big-Mac.jpg"
+        },
+        {
+          "name": "Big Tasty",
+          "price": "65",
+          "url": "https://i2-prod.walesonline.co.uk/incoming/article19532354.ece/ALTERNATES/s615/2_McDonaldsBigTasty.jpg"
+        },
+        {
+          "name": "Chicken Mac",
+          "price": "53",
+          "url": "https://i2-prod.mirror.co.uk/incoming/article21553634.ece/ALTERNATES/s1200c/2_BLPP_CHP_PMI_o220718JPG.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://images.deliveryhero.io/image/otlob/restaurants/1_637346652648350934.jpg?width=180",
+      "rate": "4.0",
+      "name": "KFC",
+      "type": "fried chicken",
+      "delivery_min": "10",
+      "items": [
+        {
+          "name": "Shrimp box",
+          "price": "188",
+          "url": "https://storage.eu.content-cdn.io/cdn-cgi/image/width=300,height=300,quality=75,format=auto,fit=cover,g=top/am-resources/b43a9bb3-260a-4e1f-9be6-65a809fab6e1/Images/ProductImages/Source/Shrimp%20Box_Egy_300x300.png"
+        },
+        {
+          "name": "Zinger box",
+          "price": "130",
+          "url": "https://kfcbd.com/wp-content/uploads/2018/03/Zinger-Box.jpg"
+        },
+        {
+          "name": "Twister Box",
+          "price": "150",
+          "url": "https://straus.s3.amazonaws.com/media/products2/8b12389ccf474ee1b9c27f1343648a5b_middle.png?version=1620322803"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://logowik.com/content/uploads/images/294_pizza_hut_new_logo.jpg",
+      "rate": "4.5",
+      "name": "Pizza hut",
+      "type": "pizza",
+      "delivery_min": "15",
+      "items": [
+        {
+          "name": "Vegetarian",
+          "price": "58",
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pizza-hut-vegan-1561134054.jpg?crop=0.756xw:1.00xh;0.124xw,0&resize=640:*"
+        },
+        {
+          "name": "Margarita",
+          "price": "42",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/ae/51/f7/pizza-margarita.jpg"
+        },
+        {
+          "name": "Cheese lovers",
+          "price": "79",
+          "url": "https://i.insider.com/59d4f32f2ff6303e008b4a64?width=1000&format=jpeg&auto=webp"
+        },
+        {
+          "name": "Chicken supreme",
+          "price": "65",
+          "url": "https://i.pinimg.com/originals/c9/c6/61/c9c66149c71378af9db165b9fe77a639.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.hotlinesegypt.com/wp-content/uploads/2019/06/Sobhy-Kaber-Restaurant-16640-372x400.png",
+      "rate": "4.7",
+      "name": "Sobhy kaber",
+      "type": "kbabgy",
+      "delivery_min": "30",
+      "items": [
+        {
+          "name": "Chicken",
+          "price": "120",
+          "url": "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/51136f35-eadf-4889-897a-78297016ea63.jpg"
+        },
+        {
+          "name": "Moza",
+          "price": "160",
+          "url": "https://10619-2.s.cdn12.com/rests/original/348_509669406.jpg"
+        },
+        {
+          "name": "Kofta",
+          "price": "220",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/ad/a6/2c/photo3jpg.jpg"
+        }
+      ]
+    }
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "url": "https://blog.sngine.com/wp-content/uploads/2020/11/offers_3433-1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdcpuyuQ2yIsLkvlkEQBsVlUTaL3ca788ZlQ&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "url": "https://img.freepik.com/free-vector/sale-special-offer-price-tags-design_1588-573.jpg?size=338&ext=jpg"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "state": "delivered",
+      "date": "26 May 2020",
+      "items": [
+        {
+          "name": "Zinger box",
+          "price": "130",
+          "url": "https://kfcbd.com/wp-content/uploads/2018/03/Zinger-Box.jpg",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "state": "delivered",
+      "date": "1 May 2020",
+      "items": [
+        {
+          "name": "Big Mac",
+          "price": "55",
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Big-Mac.jpg",
+          "quantity": 3
+        },
+        {
+          "name": "Big Tasty",
+          "price": "65",
+          "url": "https://i2-prod.walesonline.co.uk/incoming/article19532354.ece/ALTERNATES/s615/2_McDonaldsBigTasty.jpg",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "state": "pending",
+      "date": "7 july 2020",
+      "items": [
+        {
+          "name": "Zinger box",
+          "price": "130",
+          "url": "https://kfcbd.com/wp-content/uploads/2018/03/Zinger-Box.jpg",
+          "quantity": 4
+        }
+      ]
+    }
+  ]
+}
